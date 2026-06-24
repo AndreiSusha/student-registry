@@ -1,5 +1,7 @@
 # Student Registry
 
+![Student Registry UI](docs/screenshot.png)
+
 A small RESTful web service for managing a student directory — built to practice the Jakarta EE stack end-to-end: a JAX-RS API backed by JPA persistence, packaged as a WAR, and run on Tomcat with a MySQL database via Docker Compose.
 
 ## What it does
