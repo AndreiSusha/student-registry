@@ -484,7 +484,7 @@
               <input
                 type="text"
                 id="name"
-                placeholder="Andrei Susha"
+                placeholder="Name Surname"
                 autocomplete="off"
               />
             </div>
@@ -493,7 +493,7 @@
               <input
                 type="text"
                 id="address"
-                placeholder="Berlin, Germany"
+                placeholder="City, Country"
                 autocomplete="off"
               />
             </div>
